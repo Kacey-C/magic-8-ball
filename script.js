@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
 var magic8Ball = {};
-magic8Ball.listOfAnswers = ["Absolutely", "Without a doubt", "I guess so", "Yes", "Possibly", "I dunno maybe", "Not now please", "why?", "sorry not a chance", "bye bye", "uh what did you say?"];
+magic8Ball.listOfAnswers = ["Absolutely", "Without a doubt", "I guess so", "Yes", "Possibly", "I dunno maybe", "Not now please", "Why?", "Sorry, not a chance", "Of course!", "uh... What did you say?"];
 
 $("#answer").hide();
 
