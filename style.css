@@ -58,3 +58,9 @@ footer p {
   text-transform: uppercase;
   font-size: 12px;
 }
+
+@media only screen and (max-width: 992px) {
+  .answer {
+    left: 62%;
+  }
+}
