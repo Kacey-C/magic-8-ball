@@ -28,6 +28,10 @@ body {
   text-transform: uppercase;
 }
 
+#answer p {
+  text-align: center;
+}
+
 #questionButton {
   font: 26px 'Montserrat', Helvetica, Arial, sans-serif;
   border-radius: 5px;
